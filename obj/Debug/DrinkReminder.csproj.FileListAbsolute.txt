@@ -1,0 +1,10 @@
+E:\projects\Reminder\DrinkReminder\DrinkReminder\bin\Debug\DrinkReminder.exe.config
+E:\projects\Reminder\DrinkReminder\DrinkReminder\bin\Debug\DrinkReminder.exe
+E:\projects\Reminder\DrinkReminder\DrinkReminder\bin\Debug\DrinkReminder.pdb
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.csproj.AssemblyReference.cache
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.FrmMain.resources
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.Properties.Resources.resources
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.csproj.GenerateResource.cache
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.csproj.CoreCompileInputs.cache
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.exe
+E:\projects\Reminder\DrinkReminder\DrinkReminder\obj\Debug\DrinkReminder.pdb
